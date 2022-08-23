@@ -24,3 +24,4 @@
 
 
 # 참고사이트 
+1. Roboflow-Train_YOLOv5 https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ
