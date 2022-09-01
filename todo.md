@@ -37,3 +37,4 @@
   3. https://github.com/ultralytics/yolov5
   4. https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
   5. https://roboflow.com/
+  6. https://www.makesense.ai/
