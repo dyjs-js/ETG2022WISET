@@ -14,6 +14,7 @@
 
 ## **System Achitecture**
 딥러닝 객체 탐지 알고리즘인 YOLOv5를 활용하여 이미지/영상에서 Bollard, 전동킥보드를 탐지하고 안드로이드 앱을 통해 스마트폰 사용자에게 알림
+
 (YOLOv5 : YOLO의 이전 버전 대비 우수한 성능과 빠른 실행 속도)
 
 ![시스템구성및아키텍쳐](https://user-images.githubusercontent.com/85267081/188958851-d922d60f-6792-43de-9026-c0ab6b20f036.jpg)
@@ -24,9 +25,9 @@
 ![image](https://user-images.githubusercontent.com/85267081/188801809-139a928d-fb92-4d35-b36c-900967f592d3.png)
 
 ## **Dataset**
-#### **Bollard**  
+### **Bollard**  
 #### 이미지 및 좌표 정보 > AI-Hub 사이트(https://aihub.or.kr/) '인도 보행 영상' Dataset에서 추출
-#### **전동킥보드** 
+### **전동킥보드** 
 #### 이미지 > Image crawling을 통해 구글, 네이버에서 공유킥보드 이미지 630장 + 직접 핸드폰으로 촬영한 이미지 33장
 #### 좌표정보 > roboflow.com에서 1299장 직접 annotation함(Dataset명 : bolles)
             
