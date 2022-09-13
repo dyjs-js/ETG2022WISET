@@ -24,7 +24,6 @@
 
 ![image](https://user-images.githubusercontent.com/85267081/188801809-139a928d-fb92-4d35-b36c-900967f592d3.png)
 
-
 ## **Dataset**
 ### **Bollard**  
 #### 이미지 및 좌표 정보 > AI-Hub 사이트(https://aihub.or.kr) '인도 보행 영상' Dataset에서 추출
@@ -33,7 +32,6 @@
 #### 좌표정보 > roboflow.com에서 1299장 직접 annotation함(Dataset명 : bolles)
             
 ![image](https://user-images.githubusercontent.com/85267081/188961381-b5537d43-61c6-4208-80d9-924376e0d5e6.png)
-
 
 ## **ETG(EoltTeuGi)팀소개**
 구 분 | 이 름 | 이메일
