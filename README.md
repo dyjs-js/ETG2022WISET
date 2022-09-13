@@ -33,4 +33,9 @@
 ![image](https://user-images.githubusercontent.com/85267081/188961381-b5537d43-61c6-4208-80d9-924376e0d5e6.png)
 
 ## **ETG(EoltTeuGi)팀소개**
-- ![팀원정보](https://user-images.githubusercontent.com/85267081/189962010-066fd575-e270-424b-bd18-a857abffe241.jpg)
+구 분 | 이 름 | 이메일
+---|---|---
+팀장 | 김 선 정 | <toursun@naver.com>
+팀원 | 주 은 정 | <hahory0@naver.com>
+팀원 | 연 지 수 | <dydy11642@gmail.com>
+팀원 | 이 서 영 | <zjarhk21@naver.com>
