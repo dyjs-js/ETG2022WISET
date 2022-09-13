@@ -9,7 +9,8 @@
 - Youtube URL 추가하기
 
 ## **개발환경**
-![개발환경및언어](https://user-images.githubusercontent.com/85267081/188958817-1ec23f11-0ee6-4e79-b23e-f5133c0305f5.jpg)
+![개발환경및언어](https://user-images.githubusercontent.com/85267081/189961950-35e553bc-c90b-4c72-b856-a9a2aed1bbb5.jpg)
+
 
 ## **System Achitecture**
 딥러닝 객체 탐지 알고리즘인 YOLOv5, YOLOv7을 활용하여 이미지/영상에서 Bollard, 전동킥보드를 탐지하고 안드로이드 앱을 통해 스마트폰 사용자에게 알림
@@ -32,5 +33,4 @@
 ![image](https://user-images.githubusercontent.com/85267081/188961381-b5537d43-61c6-4208-80d9-924376e0d5e6.png)
 
 ## **ETG(EoltTeuGi)팀소개**
-    - 팀장 : 김선정
-    - 팀원 : 주은정, 연지수, 이서영
+![팀원정보](https://user-images.githubusercontent.com/85267081/189962010-066fd575-e270-424b-bd18-a857abffe241.jpg)
