@@ -26,7 +26,7 @@
 
 ## **Dataset**
 ### **Bollard**  
-#### 이미지 및 좌표 정보 > AI-Hub 사이트(https://aihub.or.kr/) '인도 보행 영상' Dataset에서 추출
+#### 이미지 및 좌표 정보 > AI-Hub 사이트(https://aihub.or.kr) '인도 보행 영상' Dataset에서 추출
 ### **전동킥보드** 
 #### 이미지 > Image crawling을 통해 구글, 네이버에서 공유킥보드 이미지 630장 + 직접 핸드폰으로 촬영한 이미지 33장
 #### 좌표정보 > roboflow.com에서 1299장 직접 annotation함(Dataset명 : bolles)
