@@ -47,7 +47,6 @@
 
 1차 적용 결과 
 
-![sun-9-v7_resized](https://user-images.githubusercontent.com/85267081/190078595-e185ff42-2272-4e82-a734-ed8f4c0cac39.gif)
 
 
 
