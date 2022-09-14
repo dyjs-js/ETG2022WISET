@@ -47,8 +47,7 @@
 
 1차 적용 결과 
 
-
-
+![sun-9-v7_resized](https://user-images.githubusercontent.com/85267081/190101204-7e7f32cc-ebdc-476a-a116-8700ee345a9c.gif)
 
 ## **ETG(EoltTeuGi)팀소개**
 
