@@ -1,29 +1,58 @@
-# **Pedestrian safety improvement through object recognition with YOLOv5**
- *사물 인식을 통한 안전보행 개선 프로젝트는 NIA에서 장애인 인도보행의 어려움과 이동권 문제 해결을 위하여 만든 "인도 보행 공공 데이터"를 이용하여 모든 보행자가 실시간으로 장애물을 인식하여 사고 없이 안전하게 보행을 할 수 있게 하기 위하여 만들어졌습니다.*
--------------------------------------------------------
-## **ETG(EoltTeuGi)2022WISET**
-    - 팀장 : 김선정
-    - 팀원 : 주은정, 연지수, 이서영
+# 앗! 조심해-딥러닝 기반의 객체 탐지를 통한 보행자 안전사고 예방
 
-## **Feature**
-* 쉽게 YOLOv5를 사용해 볼 수 있습니다.
-* Google colab를 통하여 anytime, aywhere 사용할 수 있습니다.
-* xxx개로 분류
+## **개발 배경**
+
+- 보행 중 스마트폰 사용률이 높은 가운데 안전사고의 위험성도 높음
+- 인도 내 안전사고에 대해서는 적극적인 예방책이 부족함
+- 추가적인 설비없이 스마트폰을 활용하여 안전사고를 줄일 수 있는 방법에 대해 고민
+
+## **시연영상**
+
+- Youtube URL 추가하기
+
+## **개발환경**
+
+![개발환경및언어](https://user-images.githubusercontent.com/85267081/189961950-35e553bc-c90b-4c72-b856-a9a2aed1bbb5.jpg)
+
+## **System Achitecture**
+
+딥러닝 객체 탐지 알고리즘인 YOLOv5를 활용하여 이미지/영상에서 Bollard, 전동킥보드를 탐지하고 안드로이드 앱을 통해 스마트폰 사용자에게 알림
+
+(YOLOv5 : YOLO의 이전 버전 대비 우수한 성능과 빠른 실행 속도)
+
+![시스템구성및아키텍쳐](https://user-images.githubusercontent.com/85267081/188958851-d922d60f-6792-43de-9026-c0ab6b20f036.jpg)
+
+## **주요기능**
+
+- 실시간으로 인도 내 장애물(Bollard, 전동킥보드)을 탐지하여 안드로이드 앱을 통해 스마트폰 사용자에게 알림(음성, 진동)으로써 인도 내 스마트폰 사용 보행자들의 안전사고의 발생률을 낮춤
+![주요기능과정이미지](https://user-images.githubusercontent.com/85267081/190100323-a117ee43-b41f-420c-af3b-dafa384f823c.jpg)
+
 
 ## **Dataset**
--
--
--
--
 
-## **Why YOLOv5**
--
--
+### **Bollard**
 
-## **Demo Link** 
--
--
+#### 이미지 및 좌표 정보 > AI-Hub 사이트(https://aihub.or.kr) '인도 보행 영상' Dataset에서 추출
 
-## **Contact us**
--
--
+### **전동킥보드**
+
+#### 이미지 > Image crawling을 통해 구글, 네이버에서 공유킥보드 이미지 630장 + 직접 핸드폰으로 촬영한 이미지 33장
+
+#### 좌표정보 > roboflow.com에서 1299장 직접 annotation함(Dataset명 : bolles)
+
+![image](https://user-images.githubusercontent.com/85267081/188961381-b5537d43-61c6-4208-80d9-924376e0d5e6.png)
+
+## **향후 과제**
+최근 공개된 YOLOv7 알고리즘을 적용하여 현 모델과 탐지 성능을 비교 및 성능 개선
+
+![sun-9-v7_resized](https://user-images.githubusercontent.com/85267081/190104766-7010c650-0408-4d3c-944c-ca9b52a7766a.gif)
+YOLOv7 학습모델 적용 결과 
+
+## **ETG(EoltTeuGi)팀소개**
+
+| 구 분 | 이 름    | 이 메 일                |
+| ----- | -------- | --------------------- |
+| 팀 장 | 김 선 정 | <toursun@naver.com>   |
+| 팀 원 | 주 은 정 | <hahory0@naver.com>   |
+| 팀 원 | 연 지 수 | <dydy11642@gmail.com> |
+| 팀 원 | 이 서 영 | <zjarhk21@naver.com>  |
