@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+- 구글 이미지 크롤링을 통해 공유킥보드 이미지 수집
+- 수집한 이미지로 Dataset 생성(roboflow)
+=======
+>>>>>>> image_crawling
+=======
 - 구글 이미지 크롤링을 통해 공유킥보드 이미지 수집
 - 수집한 이미지로 Dataset 생성(roboflow)
 =======
@@ -48,6 +54,10 @@
 팀 원 | 연 지 수 | <dydy11642@gmail.com>
 팀 원 | 이 서 영 | <zjarhk21@naver.com>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> main
+>>>>>>> image_crawling
 =======
 >>>>>>> main
 >>>>>>> image_crawling
