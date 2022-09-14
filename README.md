@@ -26,7 +26,8 @@
 
 - 실시간으로 인도 내 장애물(Bollard, 전동킥보드)을 탐지하여 안드로이드 앱을 통해 스마트폰 사용자에게 알림으로써 인도 내 스마트폰 사용 보행자들의 안전사고의 발생률을 낮춤
 
-![image](https://user-images.githubusercontent.com/85267081/188801809-139a928d-fb92-4d35-b36c-900967f592d3.png)
+![주요기능과정이미지](https://user-images.githubusercontent.com/85267081/190093432-63d91fdf-c74b-42ed-ad15-7122534e265b.jpg)
+
 
 ## **Dataset**
 
