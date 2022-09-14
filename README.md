@@ -42,6 +42,11 @@
 
 ![image](https://user-images.githubusercontent.com/85267081/188961381-b5537d43-61c6-4208-80d9-924376e0d5e6.png)
 
+## **향후 과제**
+최근 공개된 YOLOv7 알고리즘을 적용하여 현 모델과 탐지 성능을 비교 및 성능 
+1차 적용 결과 
+https://user-images.githubusercontent.com/85267081/190075928-d4ae6ef9-4989-4b0b-a5c6-7f45107adc66.mp4
+
 ## **ETG(EoltTeuGi)팀소개**
 
 | 구 분 | 이 름    | 이 메 일                |
