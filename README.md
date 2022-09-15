@@ -56,7 +56,7 @@ YOLOv7 학습모델 적용 결과
 
 | 구 분 | 이 름    | 이 메 일              | 메 인 역 할                                      | 공 통 역 할                 |
 | ----- | -------- | --------------------- |------------------------------------------------ |-----------------------------|
-| 팀 장 | 김 선 정 | <toursun@naver.com>   |Dataset 생성, Android app 개발,troubleshooting    | YOLOv5 DNN Transfer Learning|
+| 팀 장 | 김 선 정 | <toursun@naver.com>   |Dataset 생성, Android app 개발,troubleshooting    | DNN Transfer Learning|
 | 팀 원 | 주 은 정 | <hahory0@naver.com>   |데이터 전처리                                     |     
 | 팀 원 | 연 지 수 | <dydy11642@gmail.com> |시연 영상 제작                                    |    
 | 팀 원 | 이 서 영 | <zjarhk21@naver.com>  |Android app troubleshooting                       |    
