@@ -8,7 +8,7 @@
 
 ## **시연영상**
 
-- Youtube URL 추가하기
+- (https://youtu.be/NlyxRDEqX3Y)
 
 ## **개발환경**
 
@@ -27,7 +27,10 @@
 - 실시간으로 인도 내 장애물(Bollard, 전동킥보드)을 탐지하여 안드로이드 앱을 통해 스마트폰 사용자에게 알림(음성, 진동)으로써 인도 내 스마트폰 사용 보행자들의 안전사고의 발생률을 낮춤
 ![주요기능과정이미지](https://user-images.githubusercontent.com/85267081/190176511-a1a3ae70-e9ba-4e1e-8c65-1a9bb56cb4f7.jpg)
 
-[앗!조심해 Android app Github](https://github.com/Kimsunjeung/android_YOLOv5_app.git)
+[(앗!조심해 Android app Github)](https://github.com/Kimsunjeung/android_YOLOv5_app.git)   
+
+[(YOLOv5 학습 모델 탑재 App Download)](https://drive.google.com/file/d/1bb6ZgBVjNafqedZKAWg1dZhfvjU0866M/view?usp=sharing)
+- 해당 apk 파일을 다운로드 후 안드로이드 스마트폰에 직접 설치하여 실행 가능
 
 ## **Dataset**
 
@@ -51,9 +54,9 @@ YOLOv7 학습모델 적용 결과
 
 ## **ETG(EoltTeuGi)팀소개**
 
-| 구 분 | 이 름    | 이 메 일                |
-| ----- | -------- | --------------------- |
-| 팀 장 | 김 선 정 | <toursun@naver.com>   |
-| 팀 원 | 주 은 정 | <hahory0@naver.com>   |
-| 팀 원 | 연 지 수 | <dydy11642@gmail.com> |
-| 팀 원 | 이 서 영 | <zjarhk21@naver.com>  |
+| 구 분 | 이 름    | 이 메 일              | 역 할                                            | 비 고
+| ----- | -------- | --------------------- |------------------------------------------------ |-------------------
+| 팀 장 | 김 선 정 | <toursun@naver.com>   |Dataset 생성, Android app 개발 및 troubleshooting | 
+| 팀 원 | 주 은 정 | <hahory0@naver.com>   |데이터 전처리                                     |
+| 팀 원 | 연 지 수 | <dydy11642@gmail.com> |시연 영상제작                                     |
+| 팀 원 | 이 서 영 | <zjarhk21@naver.com>  |Android app troubleshooting                       |
