@@ -14,7 +14,7 @@
 
 ![개발환경및언어](https://user-images.githubusercontent.com/85267081/189961950-35e553bc-c90b-4c72-b856-a9a2aed1bbb5.jpg)
 
-## **System Achitecture**
+## **System Architecture**
 
 딥러닝 객체 탐지 모델인 YOLOv5를 활용하여 이미지/영상에서 Bollard, 전동킥보드를 탐지하고 안드로이드 앱을 통해 스마트폰 사용자에게 알림
 
